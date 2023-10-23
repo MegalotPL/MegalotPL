@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm an Artificial Intelligence undergrad at Radboud University. My heart equally races for programming, machine learning, and robotics. I'm your go-to person for Java, C++, and Python, and I've had a blast contributing to cool projects in these domains. These experiences have turned me into a bit of a Digital Craftsman, if I do say so myself!
+Hey there! I'm an Artificial Intelligence undergrad at Radboud University. My heart equally races for programming, machine learning, and robotics. I'm your go-to person for Java, C++, and Python, and I've had a blast contributing to cool projects in these domains. These experiences have turned me into a bit of a Digital Craftsman if I do say so myself!
 
 
 ## 🌐 Socials:
